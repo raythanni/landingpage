@@ -1,2 +1,2 @@
 # landingpage
-impact test landing page
+landing page for impact testing
